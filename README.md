@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :woman_technologist: About Me :
+- 🔭 I'm a data analyst from Russia.
+- 📫 How to reach me: @sable_o (telegram)
 
 ---
 
